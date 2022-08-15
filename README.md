@@ -4,7 +4,7 @@
 </p>
 
 ---
-#### ✍🏿 About Me... 
+<h3 align="center"> ✍🏿 About Me... </h3>
 
 I started my journey thanks to my brother in 2011, he saw I loved to design and create worlds so he showed me the pathway to game development with pseudo-code, that quickly sparked a passion to writing in C# by renting a book from the library. This penchant for programming expanded into general software development and writing .NET applications, taking my design principles to build and design UI and websites!
  
@@ -22,8 +22,9 @@ I started my journey thanks to my brother in 2011, he saw I loved to design and 
  
  ⚡ Fun fact: I considered pursuing a degree in Culinary Arts due to my love for cooking food. My favorite food is griot (Haitian Fried Pork)!
  
-## 📊 Stats 
- 
+<h3 align ="center"> 📊 Stats </h3>
+
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brutusd01&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brutusd01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
