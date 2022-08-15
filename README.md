@@ -1,4 +1,5 @@
 ### Hi there 👋
+[LinkedIn](https://www.linkedin.com/in/derose-brutus/)
 
 **I'm a Computer Science student specializing in .NET and Java.**
 
@@ -12,7 +13,7 @@
  
  👑 Ask me about my goals! I have many to share!
  
- 💬 Find me on [LinkedIn](https://www.linkedin.com/in/derose-brutus/) as well.
+ ⌨️ Tools of the trade: Java, C#, HTML, CSS, SQL, and JavaScript
  
  ## Stats
  
