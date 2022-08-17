@@ -6,7 +6,7 @@
 ---
 <h3 align="center"> ✍🏿 About Me... </h3>
 
-I started my journey thanks to my brother in 2011, he saw I loved to design and create worlds so he showed me the pathway to game development with pseudo-code, that quickly sparked a passion to writing in C# by renting a book from the library. This penchant for programming expanded into general software development and writing .NET applications, taking my design principles to build and design UI and websites!
+I started my journey thanks to my brother in 2011, he saw I loved to design and to create worlds so he showed me the pathway to game development with pseudo-code. That quickly sparked a passion for technology. I explored the pathway further by learning C# by renting a book from the local library. This interest in programming expanded into general software development and writing .NET applications, taking my design principles to build and design UI and websites!
  
  🎮 Currently working on [Restitched](https://www.youtube.com/watch?v=3R7e1X8UE7k "Watch the reveal trailer") as a passion project in Unity3D. 
 
