@@ -10,6 +10,8 @@ I started my journey thanks to my brother in 2011, he saw I loved to design and 
  
  🎮 Currently working on [Restitched](https://www.youtube.com/watch?v=3R7e1X8UE7k "Watch the reveal trailer") as a passion project in Unity3D. 
 
+ 🏢 Currently hired as a Software Developer at Atlanticus Holdings in Atlanta.
+
  🍎 Beginner mindset, always looking to learn!
  
  🏫 Working towards a Bachelor's in Computer Science (2nd year!)
@@ -18,7 +20,7 @@ I started my journey thanks to my brother in 2011, he saw I loved to design and 
  
  👑 Ask me about: Art and software development
  
- ⌨️ Tools of the trade: `Java`, `C#`, `React`, `SQL`, and `JavaScript`
+ ⌨️ Tools of the trade: `Java`, `C#`, `React`, `SQL`, `Python`, and `JavaScript`
  
  ⚡ Fun fact: I considered pursuing a degree in Culinary Arts due to my love for cooking food. My favorite food is griot (Haitian Fried Pork)!
  
